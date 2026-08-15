@@ -82,14 +82,15 @@ src/
 - gameLogic.test.js — logic verification tests
 - index.css — base reset and global styling
 
-## Future improvements
 
-- Additional card themes and artwork packs
-- More advanced sound design and music toggle
-- Daily challenge or streak-based mode
-- Leaderboard integration
-- Accessibility improvements and keyboard navigation refinements
 
 ## Notes
 
 The application stores best scores, best times, fewest moves, and gameplay statistics in the browser using localStorage so game progress is preserved across refreshes.
+
+
+## Author
+
+Siri A Shetty
+
+A personal project built to explore interactive web development, game logic, animations, and responsive UI design.
