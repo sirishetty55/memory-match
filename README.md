@@ -2,6 +2,10 @@
 
 A polished browser-based memory game built with React and Vite. It includes several difficulty modes, themed card sets, local persistence, stat tracking, responsive UI, and a completion flow designed to feel more like a casual game than a basic demo.
 
+## 🎮 Live Demo
+
+[Play Card Quest Memory Match](https://memory-match-bay.vercel.app/)
+
 ## Features
 
 - Multiple board sizes: Easy (4x4), Medium (5x4), Hard (6x6)
