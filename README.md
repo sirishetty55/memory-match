@@ -89,6 +89,21 @@ src/
 The application stores best scores, best times, fewest moves, and gameplay statistics in the browser using localStorage so game progress is preserved across refreshes.
 
 
+## 📸 Screenshots
+
+
+<img width="1880" height="912" alt="image" src="https://github.com/user-attachments/assets/c0aecedd-01f1-4df9-b2be-1bda3b9d4364" />
+
+<img width="1880" height="891" alt="image" src="https://github.com/user-attachments/assets/50934257-7121-403f-8bf9-5ccc5645083e" />
+
+<img width="1850" height="876" alt="image" src="https://github.com/user-attachments/assets/f948f9e9-c217-498b-b186-8dba4ea89983" />
+
+<img width="1832" height="768" alt="image" src="https://github.com/user-attachments/assets/235eb6cc-f57b-4602-af42-10736e0b1212" />
+
+<img width="1866" height="907" alt="image" src="https://github.com/user-attachments/assets/9b426e1b-e186-4daf-a151-68d71dd51931" />
+
+
+
 ## Author
 
 Siri A Shetty
